@@ -1,0 +1,15 @@
+name: "Extreme Value Statistics"
+output_dir: "docs"
+navbar:
+  title: "Extreme Value Statistics"
+  left:
+    - text: "Home"
+      href: test.html
+    - text: "Test"
+      href: test.html
+  right:
+    - icon: fa-home
+      href: https://seoncheolpark.github.io
+output:
+  html_document:
+    highlight: textmate
